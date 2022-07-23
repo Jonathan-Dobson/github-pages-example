@@ -43,7 +43,7 @@ google-analytics: G-G6822SSGWD
 # Name of the Author
 author-name: Jonathan Dobson
 # URL for the Image of the Author
-author-image: /assets/images/me.jpg
+author-image: github-pages-example/assets/images/me.jpeg
 # 60 Words About the Author
 author-about: Web Developer, Full Stack, React, JavaScript, CSS, Linux
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
